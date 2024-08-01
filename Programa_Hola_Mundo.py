@@ -1,0 +1,88 @@
+#print("¡Hola Mundo!")
+#print("La Witsi Witsi Araña subió a su telaraña.")
+#print("Vino la lluvia y se la llevó.")
+
+#print("La Witsi Witsi Araña\nsubió a su telaraña.")
+#print()
+#print("Vino la lluvia\ny se la llevó.")
+#print("\n")
+#print("La Witsi Witsi Araña" "\n" "subió","a su telaraña.")
+print("Mi nombre es", "Python.")
+print("Monty Python.")
+print("Mi nombre es", "Python.", end="\n")
+print("Monty Python.")
+print("Mi nombre es", "Python.", end=" ")
+print("Monty Python.")
+print("Mi", "nombre", "es", "Monty", "Python.", sep="-")
+print("Mi", "nombre", "es", sep="_", end=":")
+print("Monty", "Python.", sep="*", end="*\n")
+
+#Ejercicios
+print("Programming","Essentials", "in", sep="***", end="...")
+print("Python")
+
+###################
+print("original version:")
+###################
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+###################
+print("with fewer 'print()' invocations:")
+###################
+print("    *\n   * *\n  *   *\n *     *\n***   ***")
+print("  *   *\n  *   *\n  *****")
+###################
+print("higher:")
+###################
+print("        *")
+print("       * *")
+print("      *   *")
+print("     *     *")
+print("    *       *")
+print("   *         *")
+print("  *           *")
+print(" *             *")
+print("******     ******")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *     *")
+print("     *******")
+###################
+print("doubled:")
+###################
+print("        *        "*2)
+print("       * *       "*2)
+print("      *   *      "*2)
+print("     *     *     "*2)
+print("    *       *    "*2)
+print("   *         *   "*2)
+print("  *           *  "*2)
+print(" *             * "*2)
+print("******     ******"*2)
+print("     *     *     "*2)
+print("     *     *     "*2)
+print("     *     *     "*2)
+print("     *     *     "*2)
+print("     *     *     "*2)
+print("     *     *     "*2)
+print("     *******     "*2)
+
+print("fish", "chips", sep="&")
+
+print('Greg\'s book.')
+print("'Greg's book.'")
+print('"Greg\'s book."')
+
+
+#print(11_111_111)
+#print(0o123)
+print(6.62607E-34)
